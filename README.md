@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Veronica! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0003F7&center=true&vCenter=true&height=40&lines=Veronica+Romano;FullStack+Developer;Always+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=0003F7&center=true&vCenter=true&height=40&lines=Veronica+Romano;FullStack+Developer;Always+Learning)](https://git.io/typing-svg)
 <br>
 :rainbow_flag: She/They
 
@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <div align="center">
   :iphone: Contact me: 
   <div style="display: inline_block"><br>
-    <a href="mailto:veronica.lima.silva@uni9.edu.br" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" title="Email me"></a>
-    <a href="https://www.linkedin.com/in/veronica-l-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  title="Find me on LinkedIn" target="_blank"></a> 
+    <a href="mailto:v.romano.veronica@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" title="Email me"></a>
+    <a href="https://www.linkedin.com/in/veronica-lc-romano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  title="Find me on LinkedIn" target="_blank"></a> 
     <a href="https://api.whatsapp.com/send?phone=5511977370011" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="Send me a whatsApp message" target="_blank"></a>
     </div>
 </div> <br>
