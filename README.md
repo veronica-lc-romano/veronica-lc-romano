@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </div> <br>
 
 <div align="center"
-  <p> Over two years of experience with: </p>
+  <p> Over 3 years of experience with: </p>
   <div style="display: inline_block"><br>
     <a href="https://www.linkedin.com/in/veronica-lc-romano/" ><img align="center" alt="php" title="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a>
     <a href="https://www.linkedin.com/in/veronica-lc-romano/" ><img align="center" alt="python" title="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
