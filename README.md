@@ -26,9 +26,9 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/veronica-lc-romano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  title="Find me on LinkedIn" target="_blank"></a> 
     <a href="https://api.whatsapp.com/send?phone=5511977370011" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="Send me a whatsApp message" target="_blank"></a>
     </div>
-</div> <br>
+</div> 
 
-<div align="center"
+<div align="center">
   <p> Over 3 years of experience with: </p>
   <div style="display: inline_block"><br>
     <a href="https://www.linkedin.com/in/veronica-lc-romano/" ><img align="center" alt="php" title="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></a>
@@ -42,13 +42,24 @@ Here are some ideas to get you started:
    </div>
  </div>
 
-<br><br>
-
-<div style="display: inline_block">
-<div>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=veronica-lc-romano&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=veronica-lc-romano&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)
-</div>
-<div>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=veronica-lc-romano&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=veronica-lc-romano&langs_count=4&theme=transparent)
-</div>
+<br>
+<div align="center">
+<a href="https://github-stats-extended.vercel.app/api?username=veronica-lc-romano">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=veronica-lc-romano&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=veronica-lc-romano&theme=light_github" />
+  </picture>
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=veronica-lc-romano&layout=compact&langs_count=8&card_width=320">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=veronica-lc-romano&layout=compact&langs_count=8&card_width=320&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=veronica-lc-romano&layout=compact&langs_count=8&card_width=320&theme=light_github" />
+  </picture>
+</a>
 </div>
