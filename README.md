@@ -45,9 +45,10 @@ Here are some ideas to get you started:
 <br><br>
 
 <div style="display: inline_block">
-
-(https://github-stats-extended.vercel.app/api?username=veronica-lc-romano&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=veronica-lc-romano&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)
-
-(https://github-stats-extended.vercel.app/api/top-langs?username=veronica-lc-romano&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=veronica-lc-romano&langs_count=4&theme=transparent)
-
+<div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=veronica-lc-romano&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=veronica-lc-romano&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)
+</div>
+<div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=veronica-lc-romano&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=veronica-lc-romano&langs_count=4&theme=transparent)
+</div>
 </div>
