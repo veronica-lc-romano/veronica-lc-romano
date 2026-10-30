@@ -43,9 +43,4 @@ Here are some ideas to get you started:
  </div>
 
 <br><br>
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/veronica-lc-romano/" title="Watch me go">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=veronica-lc-romano&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veronica-lc-romano&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=veronica-lc-romano&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=veronica-lc-romano&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent)
